@@ -1,7 +1,6 @@
 # AlumNiti
 
-> <div align="center" style="border:2px solid #4169e1; border-radius:8px; background:#f5f7ff; width:100%; max-width:420px; margin: 0 auto; font-size:1.15em; color:#222;">
-> 
+
 > <strong style="font-size:1.3em; color:#4169e1;">🔑 Demo Login Credentials</strong><br><br>
 > <span style="font-size:1.1em;"><b>Email:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">saksham1@gmail.com</span></span><br>
 > <span style="font-size:1.1em;"><b>Password:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">12345678</span></span><br><br>
@@ -14,8 +13,7 @@
 >   </strong></code>
 > </p><br>
 > <em style="color:#333;">This account has both <b>admin</b> and <b>expert</b> privileges, allowing you to access all features, including the admin and expert dashboards.<br>If you create a new account, you will notice that some videos and sessions are paid; however, with the provided admin account, all content and features are fully accessible for demonstration purposes.</em>
-> 
-> </div>
+
 
 ## About This Project
 
