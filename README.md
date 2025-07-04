@@ -8,7 +8,7 @@
 > <span style="font-size:1.1em;"><b>Password:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">12345678</span></span><br><br>
 > <p align="center">
 >   <font color="red"><strong>
->     PLEASE DO NOT DELETE OR MODIFY ANY EXPERT FROM THE ADMIN DASHBOARD.  
+>     PLEASE DO NOT DELETE OR MODIFY ANY EXPERT USING THE ADMIN DASHBOARD.  
 >     ALL WEBSITE CONTENT DEPENDS ON THESE EXPERT ACCOUNTS,  
 >     AND REMOVING ONE WILL DELETE ITS ASSOCIATED CONTENT.
 >   </strong></font>
