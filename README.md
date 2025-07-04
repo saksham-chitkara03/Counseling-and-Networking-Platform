@@ -5,9 +5,13 @@
 > <strong style="font-size:1.3em; color:#4169e1;">🔑 Demo Login Credentials</strong><br><br>
 > <span style="font-size:1.1em;"><b>Email:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">saksham1@gmail.com</span></span><br>
 > <span style="font-size:1.1em;"><b>Password:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">12345678</span></span><br><br>
+> <p style="color:red; font-weight:bold; text-transform:uppercase; font-size:1em; margin:0;">
+> PLEASE DO NOT DELETE OR EDIT ANY EXPERT FROM THE ADMIN DASHBOARD AS THE CURRENT CONTENT ON THE ENTIRE WEBSITE IS UPLOADED FROM THOSE USERS AND IF YOU DELETE ANY EXPERT ALL THE CONTENT WILL VANISH AS EXPERT WILL BE REMOVED.
+> </p><br>
 > <em style="color:#333;">This account has both <b>admin</b> and <b>expert</b> privileges, allowing you to access all features, including the admin and expert dashboards.<br>If you create a new account, you will notice that some videos and sessions are paid; however, with the provided admin account, all content and features are fully accessible for demonstration purposes.</em>
 > 
 > </div>
+
 
 ## About This Project
 
