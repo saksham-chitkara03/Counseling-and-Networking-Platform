@@ -7,16 +7,16 @@
 > <span style="font-size:1.1em;"><b>Email:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">saksham1@gmail.com</span></span><br>
 > <span style="font-size:1.1em;"><b>Password:</b> <span style="color:#4169e1; background:#fff; padding:2px 6px; border-radius:4px;">12345678</span></span><br><br>
 > <p align="center">
->   <code style="color:red"><strong>
->     PLEASE DO NOT DELETE OR EDIT ANY EXPERT FROM THE ADMIN DASHBOARD  
->     AS THE CURRENT CONTENT ON THE ENTIRE WEBSITE IS UPLOADED  
->     FROM THOSE USERS AND IF YOU DELETE ANY EXPERT ALL THE  
->     CONTENT WILL VANISH AS EXPERT WILL BE REMOVED.
->   </strong></code>
+>   <font color="red"><strong>
+>     PLEASE DO NOT DELETE OR MODIFY ANY EXPERT FROM THE ADMIN DASHBOARD.  
+>     ALL WEBSITE CONTENT DEPENDS ON THESE EXPERT ACCOUNTS,  
+>     AND REMOVING ONE WILL DELETE ITS ASSOCIATED CONTENT.
+>   </strong></font>
 > </p><br>
-> <em style="color:#333;">This account has both <b>admin</b> and <b>expert</b> privileges, allowing you to access all features, including the admin and expert dashboards.<br>If you create a new account, you will notice that some videos and sessions are paid; however, with the provided admin account, all content and features are fully accessible for demonstration purposes.</em>
+> <em style="color:#333;">This demo account has both <b>admin</b> and <b>expert</b> privileges, giving you full access to all features. If you create a new account, some videos and sessions may appear as paid—this admin account unlocks everything for demonstration purposes.</em>
 > 
 > </div>
+
 
 ## About This Project
 
