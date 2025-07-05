@@ -11,6 +11,7 @@
 >     PLEASE DO NOT DELETE OR MODIFY ANY EXPERT USING THE ADMIN DASHBOARD.  
 >     ALL WEBSITE CONTENT DEPENDS ON THESE EXPERT ACCOUNTS,  
 >     AND REMOVING ONE WILL DELETE ITS ASSOCIATED CONTENT.
+>     ALSO THE BACKEND SERVER MIGHT TAKE SOME TIME TO RESTART SO PLEASE WAIT IF FRONTEND DOES NOT LOAD ANYTHING.
 >   </strong></font>
 > </p><br>
 > <em style="color:#333;">This demo account has both <b>admin</b> and <b>expert</b> privileges, giving you full access to all features. If you create a new account, some videos and sessions may appear as paid—this admin account unlocks everything for demonstration purposes.</em>
